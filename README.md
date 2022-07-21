@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=JunHa-Hwang's%20Github&fontColor=FF9900&fontSize=40)
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=HwangJunha8016&show_icons=true&theme=dracula" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=IamJunhaHwang&show_icons=true&theme=dracula" />
 
 ##### 🙂 Hello, My name is JunHa-Hwang 🏃   
 ##### 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   
@@ -12,7 +12,7 @@
   
   
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJunha8016&layout=compact)](https://github.com/HwangJunha8016/github-readme-stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJunhaHwang&layout=compact)](https://github.com/IamJunhaHwang/github-readme-stats" />
 
 <div align = "center">
   
