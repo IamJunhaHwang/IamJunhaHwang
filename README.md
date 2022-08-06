@@ -10,9 +10,11 @@
 
 ---------
   
+### *Programming Language*
   
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJunhaHwang&layout=compact)](https://github.com/IamJunhaHwang/github-readme-stats" />
+
 
 <div align = "center">
   
@@ -27,3 +29,15 @@
   
 </div>
 
+
+<br></br><br></br>
+
+---------------
+### *PS rate*
+
+<div align = "left">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhhwghg9911)](https://solved.ac/jhhwghg9911)
+
+</div>
