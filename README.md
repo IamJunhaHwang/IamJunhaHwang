@@ -3,7 +3,7 @@
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=IamJunhaHwang&show_icons=true&theme=dracula" />
 
 ##### 🙂 Hello, My name is JunHa-Hwang 🏃   
-##### 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   
+##### 🔭 I'm currently in the third year of computer engineering as a Bachelor and master course student at ChungBuk National University.  
 ##### 🌱 I’m currently learning and interested about `NLP & DL`   
 ##### 🔥 "Keep Learning" - I love this sentence and this motivate me.   
 
