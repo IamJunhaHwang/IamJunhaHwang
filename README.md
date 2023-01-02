@@ -13,7 +13,7 @@
 ### *Programming Language*
   
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJunhaHwang&layout=compact)](https://github.com/IamJunhaHwang/github-readme-stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJunhaHwang&layout=compact)](https://github.com/IamJunhaHwang/github-readme-stats" width = "28%" />
 
 
 <div align = "center">
@@ -30,9 +30,9 @@
 </div>
 
 
-<br></br><br></br>
+<br></br><br></br><br></br>
 
----------------
+
 ### *PS rate*
 
 <div align = "left">
