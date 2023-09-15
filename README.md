@@ -32,7 +32,7 @@
 
 <br></br><br></br><br></br>
 
-
+<!----
 ### *PS rate*
 
 <div align = "left">
@@ -41,3 +41,5 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhhwghg9911)](https://solved.ac/jhhwghg9911)
 
 </div>
+
+----->
